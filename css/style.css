@@ -1,0 +1,13 @@
+button{
+    margin-top: 90px;
+    margin-left: 80px;
+    background-color: purple;
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+p{
+    color: blue;
+    margin-top: 70px;
+    text-align: center;
+}
